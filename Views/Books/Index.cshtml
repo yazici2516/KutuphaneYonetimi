@@ -1,0 +1,93 @@
+﻿@model IEnumerable<KutuphaneYonetim.Models.Book>
+
+@{
+    ViewData["Title"] = "Kitaplar";
+}
+
+<div class="card shadow">
+
+    <div class="alert alert-secondary text-center fw-bold">
+        📊 Toplam Kayıtlı Kitap Sayısı: @ViewBag.TotalBooks
+    </div>
+
+
+    <!-- HEADER -->
+    <div class="card-header bg-primary text-white">
+        <div class="d-flex justify-content-between align-items-center">
+            <h4 class="mb-0">📚 Kitap Listesi</h4>
+            <a asp-action="Create" class="btn btn-light btn-sm">
+                ➕ Yeni Kitap
+            </a>
+        </div>
+    </div>
+
+    <!-- BODY -->
+    <div class="card-body">
+
+        <!-- SEARCH -->
+        <form method="get" class="row mb-4 justify-content-center">
+            <div class="col-md-4 mb-2">
+                <input type="text"
+                       name="search"
+                       value="@ViewBag.Search"
+                       class="form-control"
+                       placeholder="🔍 Kitap veya yazar ara..." />
+            </div>
+
+            <div class="col-md-3 mb-2">
+                <select name="sort" class="form-select" onchange="this.form.submit()">
+                    <option value="">🔤 A-Z</option>
+                    <option value="title_desc" selected="@(ViewBag.Sort == "title_desc")">🔠 Z-A</option>
+                    <option value="year" selected="@(ViewBag.Sort == "year")">📅 Yıla Göre</option>
+                </select>
+            </div>
+
+            <div class="col-md-2 mb-2 d-grid">
+                <button class="btn btn-primary">Ara</button>
+            </div>
+        </form>
+
+
+
+        @if (!Model.Any())
+        {
+            <div class="alert alert-warning text-center">
+                Aranan kritere uygun kitap bulunamadı.
+            </div>
+        }
+        else
+        {
+            <table class="table table-hover text-center align-middle">
+                <thead>
+                    <tr>
+                        <th>Başlık</th>
+                        <th>Yazar</th>
+                        <th>Yıl</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Title</td>
+                            <td>@item.Author</td>
+                            <td>@item.PublishYear</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">
+                                    ✏️ Düzenle
+                                </a>
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-sm btn-danger">
+                                    Sil
+                                </a>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>

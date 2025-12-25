@@ -1,0 +1,11 @@
+﻿@model KutuphaneYonetim.Models.Book
+
+<h2>Kitap Güncelle</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <input asp-for="Title" />
+    <input asp-for="Author" />
+    <input asp-for="PublishYear" />
+    <button type="submit">Güncelle</button>
+</form>
