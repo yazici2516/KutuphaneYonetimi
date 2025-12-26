@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazic\\KutuphaneYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|c:\\users\\yazic\\kutuphaneyonetim\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB3B90B-503C-AEA7-ADD4-1C261B310463}|KutuphaneYonetim.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 282,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:20:06.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:20:20.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:20:52.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:20:36.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-25T21:43:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:55:45.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:55:59.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:19:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:20:58.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T21:21:06.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:20:42.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:43:17.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:19:43.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\yazic\\KutuphaneYonetim\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T21:20:47.559Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
